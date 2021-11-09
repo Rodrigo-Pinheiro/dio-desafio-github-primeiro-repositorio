@@ -30,8 +30,8 @@ git clone git://github.com/schacon/grit.git mygrit
 Este comando faz exatamente a mesma coisa que o anterior, mas o diretório alvo será chamado mygrit.
 
 
-Básico
-git add
+
+## git add
 Gravando Alterações
 
 Quando um repositório é inicialmente clonado,todos os seus arquivos estarão monitorados e inalterados
